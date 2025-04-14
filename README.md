@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @earltavera
-- 👀 I’m interested in Software, Hardware and anything regarding computer. I am also into Photography
+- 👀 I’m interested in Software, Hardware and anything regarding computers. I am also into Photography
 - 🌱 I’m currently learning Data Analytics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
