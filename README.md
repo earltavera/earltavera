@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @earltavera
-- 👀 I’m interested in Software, Hardware and anything regarding computers. I am also into Photography
-- 🌱 I’m currently learning Data Analytics.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Earl! 👋 
 
-<!---
-earltavera/earltavera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Master of Software Engineering Student | QA Engineer (6+ yrs)
+I bridge the gap between robust software testing and high-quality development. Currently focusing on Software Engineering at Yoobee College while leveraging a background in Data Analytics.
+
+- 🎓 **Currently:** Pursuing MSE (Focusing on C++, Java, and Quantum Computing)
+- 📊 **Background:** Graduate Diploma in Data Analytics & 6 years in Software QA.
+- 🛠️ **Tech Stack:** Python (Pandas, Streamlit), SQL, C++, Java, Qiskit.
+- 📍 **Location:** Auckland, NZ
+
+### 🚀 Featured Project
+**[Auckland Council Air Discharge Dashboard]**
+*A Streamlit-based data visualization tool for environmental consents.*
